@@ -192,7 +192,7 @@ bar {
         status_command i3status
 }
 
-exec --no-startup-id setxkbmap -layout us,ir -option 'grp:alt_shift_toggle'
+exec --no-startup-id setxkbmap -layout us,ir -option 'grp:lwin_toggle'
 
 #######################################################################
 # automatically start i3-config-wizard to offer the user to create a
